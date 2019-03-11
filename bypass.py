@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*
 
+'''
+Author: lckjack
+Title: Really-Simple-Captcha bypass
+Description: Lets use opencv to resolve some captchas from Wordpress Really-Simple-Captcha plugin :)
+'''
 
 import bs4 as BeautifulSoup
 import requests
